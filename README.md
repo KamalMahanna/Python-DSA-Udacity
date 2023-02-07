@@ -1,5 +1,10 @@
+
+We will learn DSA from Udacity.  
+These are all topics we will learn.
+
+
 1. Introduction and Efficiency
-    * Course Introduction
+    <input type="checkbox" disabled checked /> Introduction
     * Syntax
     * Efficiency
     * Notation of Efficiency
@@ -41,3 +46,9 @@
     * Additional Tips
     * Practice with Pramp
     * Next Steps
+
+
+References:
+
+
+[x]  Mercury
