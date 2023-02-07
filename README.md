@@ -4,7 +4,7 @@ These are all topics we will learn.
 
 
 1. Introduction and Efficiency
-    <input type="checkbox" disabled checked /> Introduction
+    * &#x2611;  Introduction
     * Syntax
     * Efficiency
     * Notation of Efficiency
@@ -50,5 +50,3 @@ These are all topics we will learn.
 
 References:
 
-
-[x]  Mercury
