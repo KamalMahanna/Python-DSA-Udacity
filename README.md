@@ -3,11 +3,11 @@ We will learn DSA from Udacity.
 These are all topics we will learn.
 
 
-1. Introduction and Efficiency
-    * &#x2611;  Introduction
-    * Syntax
-    * Efficiency
-    * Notation of Efficiency
+1. Introduction and Efficiency  
+&#x2611;  Introduction  
+&#x2610; Syntax  
+&#x2611; Efficiency  
+&#x2611; Notation of Efficiency
 2. List-Based Collections
     * Lists/Arrays
     * Linked Lists
